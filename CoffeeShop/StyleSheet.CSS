@@ -1,0 +1,37 @@
+﻿body {
+    background-image: url('lightbrown.jpg');
+    background-repeat: repeat;
+}
+h1{
+    text-align:center;
+    color:black;
+}
+h2,h3,h4, strong{
+    color: darkorange;
+}
+h2{
+    text-align: center;
+}
+
+.pumpkinVodkaLatte , img {
+    width:225px;
+    height:225px;
+}
+.bourbonSpiceLatte , img{
+    width:225px;
+    height:225px;
+}
+javaBeanWhiskey , img{
+    width:225px;
+    height:225px;
+}
+/*.secondDrink, img{
+    text-align:right;
+
+}*/
+.javaBean, img {
+    
+}
+    
+
+
